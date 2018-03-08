@@ -5,7 +5,7 @@ import sys
 import os
 import numpy as np
 import math as mth
-quandl.ApiConfig.api_key = "rixaXs71r2KgkmPHW9jZ"
+quandl.ApiConfig.api_key = ""
 
 class FE:
 	def __init__(self,**args):
